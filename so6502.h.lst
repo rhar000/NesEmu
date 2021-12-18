@@ -1,0 +1,14 @@
+------- FILE so6502.h LEVEL 1 PASS 1
+so6502.h (1): error: Unknown Mnemonic 'pragma'.
+      1  0000					      pragma	once
+      2  0000 ????
+      3  0000 ????
+so6502.h (4): error: Unknown Mnemonic 'so6502'.
+      4  0000 ????			   class      so6502
+      5  0000 ????			   {
+      6  0000 ????			   public
+so6502.h (7): error: Unknown Mnemonic 'so6502()'.
+      7  0000 ????				      so6502()		;
+so6502.h (8): error: Unknown Mnemonic '~so6502()'.
+      8  0000 ????				      ~so6502()		;
+      9  0000 ????			   }

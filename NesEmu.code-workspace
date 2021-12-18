@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\6502\\multiplexed display"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp",
+			"type_traits": "cpp",
+			"xtr1common": "cpp"
+		}
+	}
+}
